@@ -9,8 +9,16 @@
     font-size: 24px;
     line-height: 28px;
     text-align: right;
+<<<<<<< HEAD
     color: #FFFFFF;
     }
     .header__lang-link:first-child {
         text-decoration-line: underline;
     }
+=======
+    color: rgb(255, 255, 255);
+}
+.header__lang-link:first-child {
+    text-decoration-line: underline;
+}
+>>>>>>> master
