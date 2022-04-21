@@ -1,0 +1,16 @@
+.header__lang-link {
+    display: flex;
+    width: 29px;
+    height: 28px;
+    left: 1203px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+}
+.header__lang-link:first-child {
+    text-decoration-line: underline;
+}
