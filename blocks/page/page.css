@@ -2,21 +2,21 @@
     font-family: 'Inter';
     font-style: normal;
     src: url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Regular.woff2") format("woff2"),
-         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Regular.woff") format("woff"),
-         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff2") format("woff2"),
-         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff") format("woff");
+         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: 'InterBlack';
+    font-style: bold;
+    src: url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Black.woff2") format("woff2"),
+         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Black.woff") format("woff");
 }
 .page {
     position: relative;
     width: 1280px;
     height: 6875px;
-<<<<<<< HEAD
     background: #2A2C2F;
     margin: 0 auto;
     font-family: 'Inter', "Arial", sans-serif;
-=======
-    font-family: 'Inter', Arial, sans-serif;
-    background: rgb(42, 44, 47);
+    background: #2A2C2F;
     margin: 0px auto;
->>>>>>> master
 }
