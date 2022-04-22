@@ -3,8 +3,12 @@
     font-style: normal;
     src: url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Regular.woff2") format("woff2"),
          url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Regular.woff") format("woff"),
-         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff2") format("woff2"),
-         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: 'InterBlack';
+    font-style: normal;
+    src: url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Black.woff2") format("woff2"),
+         url("../../../../../fonts/Inter-3.19/InterWeb/Inter-Black.woff") format("woff");
 }
 .page {
     position: relative;
