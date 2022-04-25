@@ -1,0 +1,17 @@
+.place__paragraph {
+    margin: 0 auto;
+    margin-right: 0;
+    margin-bottom: 26px;
+    position: relative;
+    width: 484px;
+    right: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.place__paragraph:last-child {
+    margin-bottom: 0;
+}

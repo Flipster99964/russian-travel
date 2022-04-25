@@ -1,0 +1,13 @@
+.place__title {
+    position: relative;
+    margin: 0 auto;
+    margin-left: 0;
+    margin-bottom: 48px;
+    width: 460px;
+    font-family: 'InterBlack';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 106%;
+    color: #FFFFFF;
+}

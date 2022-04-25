@@ -1,0 +1,10 @@
+.place {
+    position: relative;
+    width: 100%;
+    margin-bottom: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.place:last-child {
+    margin-bottom: 0;
+}
