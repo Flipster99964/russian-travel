@@ -4,3 +4,8 @@
     width: 176px;
     height: 52px;
 }
+@media screen and (max-width: 320px) {
+    .header__logo {
+        transform: scale(0.8068); 
+    }
+}
