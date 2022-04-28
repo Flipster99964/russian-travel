@@ -4,3 +4,21 @@
     margin: 0 auto;
     margin-right: 0;
 }
+@media screen and (max-width: 1024px) {
+    .place__main-text {
+        width: 456px;
+        margin-left: 32px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .place__main-text {
+        width: 352px;
+        margin-left: 28px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .place__main-text {
+        width: 288px;
+        margin-left: 16px;
+    }
+}

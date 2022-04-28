@@ -9,6 +9,7 @@
     line-height: 28px;
     text-align: right;
     color: rgb(255, 255, 255);
+    margin-bottom: 6px;
 }
 .header__lang-link:first-child {
     text-decoration-line: underline;
@@ -17,5 +18,8 @@
     .header__lang-link {
         width: 22px;
         height: 20px;
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 6px;
     }
 }

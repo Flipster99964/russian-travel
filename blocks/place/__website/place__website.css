@@ -7,3 +7,22 @@
     height: 46px;
     align-self: end;
 }
+@media screen and (max-width: 1024px) {
+    .place__website {
+        width: 456px;
+        margin-left: 32px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .place__website {
+        width: 352px;
+        margin-left: 28px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .place__website {
+        width: 288px;
+        margin-right: 0;
+        margin-left: 16px;
+    }
+}
