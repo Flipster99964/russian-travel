@@ -19,6 +19,12 @@
         left: 232px;
     }
 }
+@media screen and (max-width: 795px) {
+    .cover__title {
+        top: 115px;
+        left: 104px;
+    }
+}
 @media screen and (max-width: 768px) {
     .cover__title {
         top: 115px;
