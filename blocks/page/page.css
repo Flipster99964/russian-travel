@@ -12,27 +12,20 @@
     src: url("../../fonts/Inter-3.19/InterWeb/Inter-Black.woff2") format("woff2"),
          url("../../fonts/Inter-3.19/InterWeb/Inter-Black.woff") format("woff");
 }
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff2") format("woff2"),
+         url("../../fonts/Inter-3.19/InterWeb/Inter-Bold.woff") format("woff");
+}
 .page {
     position: relative;
-    width: 1280px;
+    width: 100%;
+    max-width: 1280px;
+    min-width: 320px;
     background: #2A2C2F;
     margin: 0 auto;
     font-family: 'Inter', "Arial", sans-serif;
-}
-
-@media screen and (max-width: 1024px) {
-    .page {
-        width: 1024px;
-    }
-}
-@media screen and (max-width: 768px) {
-    .page {
-        width: 768px;
-    }
-}
-@media screen and (max-width: 320px) {
-    .page {
-        width: 320px;
-    }
-}
+} 
 

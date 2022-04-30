@@ -12,10 +12,23 @@
         height: 440px;
     }
 }
+@media screen and (max-width: 928px) {
+    .place__image {
+        width: 340px;
+        height: 340px;
+    }
+}
 @media screen and (max-width: 768px) {
     .place__image {
         width: 340px;
         height: 340px;
+    }
+}
+@media screen and (max-width: 720px) {
+    .place__image {
+        width: 320px;
+        height: 320px;
+        margin-bottom: 32px;
     }
 }
 @media screen and (max-width: 320px) {
