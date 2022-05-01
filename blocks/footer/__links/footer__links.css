@@ -1,18 +1,7 @@
 @media screen and (max-width: 695px) {
     .footer__links {
-        height: 248px;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        justify-items: flex-start;
-    }
-}
-@media screen and (max-width: 320px) {
-    .footer__links {
-        height: 248px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
         justify-items: flex-start;
     }
 }

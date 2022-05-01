@@ -20,9 +20,3 @@
         grid-template-columns: 1fr;
     }
 }
-@media screen and (max-width: 320px) {
-    .place {
-        margin-bottom: 50px;
-        grid-template-columns: 1fr;
-    }
-}
