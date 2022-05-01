@@ -11,16 +11,6 @@
 @media screen and (max-width: 695px) {
     .footer {
         width: 186px;
-        height: 310px;
-        flex-direction: column;
-        margin-left: 16px;
-        margin-top: 64px;
-    }
-}
-@media screen and (max-width: 320px) {
-    .footer {
-        width: 186px;
-        height: 310px;
         flex-direction: column;
         margin-left: 16px;
         margin-top: 64px;
